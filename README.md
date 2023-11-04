@@ -1,6 +1,8 @@
-# Anthony Gourraud 💻
+Bonjour 👋! I'm Anthony, a French engineer weaving the fabric of the future with blockchain and media innovation. Dive in, explore my codebase, and join me on this exhilarating journey of discovery and creation.
 
-I'm Anthony, a French engineer with a penchant for blockchain and media innovation. With a unique blend of technical acumen and a fervour for continuous learning, I'm pioneering the intersection of decentralized applications and media tech. Dive deeper to explore my codebase, projects, and innovations.
+<details>
+
+<summary>More information</summary>
 
 ## 🛠 Technical Expertise & Stack
 
@@ -12,6 +14,18 @@ I'm Anthony, a French engineer with a penchant for blockchain and media innovati
 - **Project Leadership**: Steering cross-functional projects to success.
 
 ### Tech Stack
+
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![Polygon](https://img.shields.io/badge/-Polygon-8248E5?logo=polygon&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+
+
 - **Languages**: NodeJS/TypeScript, SQL, Mongo, Solidity, React.
 - **Tools & Libraries**: Hardhat, Slither, Thirdweb, Open Rarity, Chainlink VRF, Google Data Studio.
 - **Standards**: ERC20/ERC721/ERC1155, ERC721A, ERC20Permit, ERC2771, Merkle proofs, Gasless transactions.
@@ -53,14 +67,15 @@ Got an intriguing project? Or want to geek out over the latest in blockchain or 
 
 ### Socials 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/anthony-gourraud/)
-
-🐦 X (formerly Twitter): [@AnthonyGourraud](https://twitter.com/AnthonyGourraud)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-gourraud/)](https://www.linkedin.com/in/anthony-gourraud/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&link=https://twitter.com/AnthonyGourraud)](https://twitter.com/AnthonyGourraud)
 
 ### Web3 ID: [anthonyg.eth](https://web3.bio/anthonyg.eth)
 
-🌐 [ENS](https://app.ens.domains/anthonyg.eth)
+* 🌐 [ENS](https://app.ens.domains/anthonyg.eth)
 
-☘️ [Hey (formerly Lenster)](https://hey.xyz/u/anthonyg)
+* ☘️ [Hey (formerly Lenster)](https://hey.xyz/u/anthonyg)
 
-🎖️ [POAPs](https://collectors.poap.xyz/scan/0x64e8f7c2b4fd33f5e8470f3c6df04974f90fc2ca)
+* 🎖️ [POAPs](https://collectors.poap.xyz/scan/0x64e8f7c2b4fd33f5e8470f3c6df04974f90fc2ca)
+
+</details>
