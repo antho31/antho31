@@ -33,6 +33,9 @@ Bonjour 👋! I'm Anthony, a French engineer weaving the fabric of the future wi
 
 ## 🌟 Notable Projects & Contributions
 
+### **Siborg - Podcast & Blockchain Engineer (2023-now)**
+- Developed an app API and created SocialFi snapshots using the Twitter API.
+
 ### **Web3 Consultant & Solidity Developer (2022-now)**
 - Led educational sessions at Toulouse Business School and [blockchain workshops at Epitech](https://github.com/antho31/solidity-workshop-epitech).
 - Led and advised on NFTs and crypto-assets projects ([bufalo](https://www.bufalomusic.com/), [Podcast Magazine](https://podcastmagazine.fr/category/nft/) and more).
