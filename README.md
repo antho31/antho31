@@ -41,7 +41,6 @@ Bonjour 👋! I'm Anthony, a French engineer weaving the fabric of the future wi
 - Led and advised on NFTs and crypto-assets projects ([bufalo](https://www.bufalomusic.com/), [Podcast Magazine](https://podcastmagazine.fr/category/nft/) and more).
 - Developed and deployed smart contracts on EVM chains. 
   - [Bufalo NFT Skulls](https://github.com/antho31/bufalo-nft-skulls) - NFTs linked to musical commercial rights, integrated with ERC20-based rewards.
-  - [d>sponsor](https://github.com/d-cast-media/dsponsor) - Decentralized monetization protocol for publishers.
 
 ### **OKP4 - DevRel Engineer (2023)**
 - Evangelized the [OKP4 blockchain](https://okp4.network/) to developers, hosted workshops and organized grant programs.
