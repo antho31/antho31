@@ -33,8 +33,9 @@ Bonjour 👋! I'm Anthony, a French engineer weaving the fabric of the future wi
 
 ## 🌟 Notable Projects & Contributions
 
-### **Siborg - Podcast & Blockchain Engineer (2023-now)**
-- Developed an app API and created SocialFi snapshots using the Twitter API.
+### **Siborg - Tech Lead Web3 & Monetization (2023-now)**
+- 𝐂𝐨-𝐟𝐨𝐮𝐧𝐝𝐞𝐫 𝐨𝐟 "𝐒𝐢𝐁𝐨𝐫𝐠 𝐀𝐝𝐬", the first solution for tokenizing advertising spaces. Developed the project strategy, authored the whitepaper, and defined the tokenomics. Built and managed a multidisciplinary team, overseeing daily developer activities. Designed, developed, and deployed smart contracts (Solidity), Frames (Warpcast/Farcaster), subgraphs (The Graph), and other backend services (Node.JS)
+- Developed backend services to fetch Twitter Spaces, scrapping X users activities and more.
 
 ### **Web3 Consultant & Solidity Developer (2022-now)**
 - Led educational sessions at Toulouse Business School and [blockchain workshops at Epitech](https://github.com/antho31/solidity-workshop-epitech).
